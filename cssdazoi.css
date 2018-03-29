@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#title{
+  margin-bottom: 20px;
+}
+#hidari{
+  float: left;
+  width: 70%;
+}
+#migi{
+  float: right;
+  width: 30%;
+}
