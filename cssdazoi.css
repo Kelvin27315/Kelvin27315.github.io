@@ -12,6 +12,14 @@
   width: 30%;
 }
 
+#banner{
+  max-width: 200px;
+}
+
+#seal{
+  max-width: 200px;
+}
+
 img{
   width: 50%;
 }
