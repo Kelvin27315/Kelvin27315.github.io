@@ -1,11 +1,21 @@
 @charset "UTF-8";
 
+*{
+  margin: 0px;
+}
+
 #title{
+  background-color: #6cc5ed;
+  color: #ffffff;
   margin-bottom: 20px;
+  padding-top: 10px;
+  padding-left: 3%;
+  padding-bottom: 5px;
 }
 #hidari{
   float: left;
-  width: 70%;
+  width: 67%;
+  padding-left: 3%;
 }
 #migi{
   float: right;
