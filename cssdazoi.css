@@ -4,13 +4,40 @@
   margin: 0px;
 }
 
-#title{
+header{
   background-color: #6cc5ed;
-  color: #ffffff;
-  margin-bottom: 20px;
   padding-top: 10px;
-  padding-left: 3%;
-  padding-bottom: 5px;
+  margin-bottom: 80px;
+}
+#title a{
+  margin-left: 1em;
+  text-decoration: none;
+  color: #ffffff;
+}
+nav ul{
+  list-style: none;
+  padding: 0;
+}
+nav ul li{
+  float: left;
+  width: 33.33%;
+  font-weight: bold;
+  text-align: center;
+  line-height: 2.5em;
+}
+nav ul li a{
+  text-decoration: none;
+  color: #ffffff;
+  display: block;
+}
+#item-index{
+  background-color: #0a76fc;
+}
+#item-works{
+  background-color: #06307a;
+}
+#item-history{
+  background-color: #5b57E0;
 }
 #hidari{
   float: left;
@@ -21,15 +48,12 @@
   float: right;
   width: 30%;
 }
-
 #banner{
   max-width: 200px;
 }
-
 #seal{
   max-width: 200px;
 }
-
 img{
   width: 50%;
 }
