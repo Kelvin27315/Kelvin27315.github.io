@@ -25,6 +25,9 @@ nav ul li{
   text-align: center;
   line-height: 2.5em;
 }
+h3{
+  margin-top: 1em;
+}
 nav ul li a{
   text-decoration: none;
   color: #ffffff;
@@ -52,6 +55,7 @@ nav ul li a{
   max-width: 200px;
 }
 #seal{
+  margin-top: 2em;
   max-width: 200px;
 }
 img{
